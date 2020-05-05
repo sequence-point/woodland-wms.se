@@ -9,6 +9,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 img {
+	box-sizing: border-box;
 	margin-bottom: 1rem;
 	border: 0.5rem solid white;
 	box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
