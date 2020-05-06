@@ -41,7 +41,8 @@ verksamheten och inte tvärtom.
 Just nu söker vi pilotkunder som tillsammans med oss vill testa Woodland WMS
 och hjälpa till med utvecklingen.
 
-Är du intresserad? Kontakta [Per Edin](mailto:per.edin@sequence-point.se).
+Är du intresserad? Kontakta vår utvecklingschef
+[Per Edin](mailto:per.edin@sequence-point.se).
 
 ## Kuriosa
 
