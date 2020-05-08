@@ -5,6 +5,8 @@ description: >-
 baseurl: ""
 url: "https://woodland-wms.se/"
 lang: "sv"
+header_pages:
+  - does-not-exist
 
 theme: minima
 plugins:
