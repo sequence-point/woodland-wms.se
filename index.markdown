@@ -16,19 +16,20 @@ img {
 }
 
 @media(min-width: 40rem) {
-	img {
-		max-width: 40%;
-	}
 	img.left {
+		max-width: 40%;
 		float: left;
 		margin-right: 1rem;
 	}
 	img.right {
+		max-width: 40%;
 		float: right;
 		margin-left: 1rem;
 	}
 }
 </style>
+
+![Woodland WMS](/images/woodland-wms.png){: class=""}
 
 Woodland WMS är ett modernt lagerhanteringsystem under utveckling. Fokus ligger
 på användarvänlighet och flexibilitet där systemet anpassar sig efter
