@@ -42,8 +42,21 @@ verksamheten och inte tvärtom.
 Just nu söker vi pilotkunder som tillsammans med oss vill testa Woodland WMS
 och hjälpa till med utvecklingen.
 
-Är du intresserad? Kontakta vår utvecklingschef
-[Per Edin](mailto:per.edin@sequence-point.se).
++ Saknar du i dagsläget system för ditt lager?
++ Eller, är du inte nöjd med användarvänligheten i det system ni har i dag?
++ Behöver du koppling till externa system, t.ex. webbhandel?
+
+Kontakta vår utvecklingschef
+[Per Edin](mailto:per.edin@sequence-point.se)
+i dag för att diskutera hur vi kan hjälpa varandra.
+
+## Funktioner
+
++ Artikelhantering
++ Etikettutskrifter
++ Flerspråksstöd
++ Handdator-koppling
++ Rapportgenerering
 
 ## Kuriosa
 
